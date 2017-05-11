@@ -1,0 +1,10 @@
+.main-picture {
+  border: 1px solid black;
+}
+
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
